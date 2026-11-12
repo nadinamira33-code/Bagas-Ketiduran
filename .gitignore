@@ -1,0 +1,17 @@
+# Media & Builds
+output/
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wav
+*.mp3
+
+# Dependencies & caches
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
